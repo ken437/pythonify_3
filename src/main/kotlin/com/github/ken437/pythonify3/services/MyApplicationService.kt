@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ken437.pythonify3.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ken437.pythonify3.MyBundle
 
 class MyApplicationService {
 
